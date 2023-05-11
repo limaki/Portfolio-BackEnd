@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.proyect.Inicio.ArgentinaProgramaTwoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 62.831 s - in com.proyect.Inicio.ArgentinaProgramaTwoApplicationTests
